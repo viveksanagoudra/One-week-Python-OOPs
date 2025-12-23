@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/viveksanagoudra/web-portfolio/blob/main/public/webscreenshot1.png"/>
+  <img src="https://github.com/viveksanagoudra/1-week-OOPs-in-Python/blob/main/public/oops%20python%20plan.png">
 </p>
